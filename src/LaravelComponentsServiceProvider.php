@@ -2,9 +2,9 @@
 
 namespace Roberts\LaravelComponents;
 
+use Roberts\LaravelComponents\Commands\LaravelComponentsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Roberts\LaravelComponents\Commands\LaravelComponentsCommand;
 
 class LaravelComponentsServiceProvider extends PackageServiceProvider
 {
