@@ -2,9 +2,9 @@
     "name": "roberts/laravel-components",
     "description": "Laravel package for database of tenancy design components",
     "keywords": [
-        "Roberts",
         "laravel",
-        "laravel-components"
+        "laravel package",
+        "components"
     ],
     "homepage": "https://github.com/roberts/laravel-components",
     "license": "MIT",
@@ -17,6 +17,7 @@
     ],
     "require": {
         "php": "^8.4",
+        "roberts/support": "^12.0",
         "spatie/laravel-package-tools": "^1.16",
         "illuminate/contracts": "^11.0||^12.0"
     },
